@@ -1,1 +1,1 @@
-# Milk-Man-Server-Stats
+hosts milkmans server stats (down,maintenance,currentver)
